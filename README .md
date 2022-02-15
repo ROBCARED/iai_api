@@ -1,4 +1,4 @@
-# Full API mini_projetc
+#  API 
 this api allows us to collect existing books and categories for various uses, to add new categories as well as new books, to modify or even supress certain books
 ## Getting Started
 
